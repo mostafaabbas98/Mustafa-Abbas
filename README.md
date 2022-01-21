@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mostafaabbas98
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning full-stack wep developer
+- 🌱 I’m currently learning React.js wep developer
 
 
 <!---
